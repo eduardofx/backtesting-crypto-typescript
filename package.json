@@ -1,0 +1,17 @@
+{
+  "name": "backtesting-crypto-typescript",
+  "version": "0.0.1",
+  "description": "Backtesting buy & sell",
+  "author": "eduardok.fx@gmail.com",
+  "scripts": {
+    "start:sma": "ts-node-dev ./SMA/index.ts",
+    "start:vpvr": "ts-node-dev ./VPVR/index.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
+  }
+}
