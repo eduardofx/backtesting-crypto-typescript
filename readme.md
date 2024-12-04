@@ -10,7 +10,7 @@ A powerful and flexible crypto backtesting platform built with TypeScript, desig
  • VPVR (Volume Profile Visible Range): Analyze strategies based on volume distribution.
  • Binance Integration: Fetch real-time and historical market data directly from the Binance API.
  • TypeScript Powered: Ensure reliability with a strongly typed and maintainable codebase.
- • Performance Metrics: Get detailed reports on profitability, risk, and strategy efficiency.
+ • Performance Metrics: Get reports on profitability and strategy efficiency.
  • Customizable Parameters: Adjust strategy configurations for maximum flexibility.
 
 ## 🚀 Getting Started
@@ -74,11 +74,10 @@ This method analyzes volume distribution within a visible price range, identifyi
 
 ## 📊 Example Results
 
-After running the backtesting, you will receive detailed reports, including:
+After running the backtesting, you will receive reports, including:
  • Total Return
- • Win Rate
- • Maximum Drawdown
- • Risk-Adjusted Returns
+ • Buy and Sell prices
+
 
 🛡️ Disclaimer
 
